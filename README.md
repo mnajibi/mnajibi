@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
 <h3 align="center">I'm currently studying software development at Seneca college.</h3>
 
-- 🔭 I’m currently working on **Angular, React , C# and Python**
+- 🔭 I’m currently working on **Angular, React , C# , Python ,and my design skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
