@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maryam</h1>
-<h3 align="center">I'm a third-year software development student at Seneca college.</h3>
+<!-- <h3 align="center">I'm a third-year software development student at Seneca college.</h3> -->
 
 - 🔭 Currently working on **Angular, React , C# , Python ,and my design skills**
 
